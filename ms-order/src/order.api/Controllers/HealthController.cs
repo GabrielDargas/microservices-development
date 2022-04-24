@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace order.api.Controllers
+namespace Order.Api.Controllers
 {
     public class HealthController : Controller
     {
